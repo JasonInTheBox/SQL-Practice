@@ -1,0 +1,25 @@
+id,employee_name,salary,row_num,salary_rank,dense_salary_rank
+1,Alice Johnson,250000,1,1,1
+2,Brian Smith,180000,2,2,2
+3,Carla Gomez,180000,3,2,2
+4,David Lee,165000,4,4,3
+7,Grace Kim,150000,5,5,4
+8,Henry Patel,150000,6,5,4
+5,Emma Davis,140000,7,7,5
+9,Irene Novak,130000,8,8,6
+10,Jack Brown,120000,9,9,7
+11,Karen White,120000,10,9,7
+19,Samuel Clark,120000,11,9,7
+6,Frank Wilson,110000,12,12,8
+22,Victor Hall,110000,13,12,8
+17,Quinn Harris,98000,14,14,9
+12,Leo Martinez,95000,15,15,10
+24,Yusuf Ali,95000,16,15,10
+13,Maria Garcia,90000,17,17,11
+14,Nathan Young,90000,18,17,11
+20,Tina Lewis,85000,19,19,12
+21,Uma Rao,85000,20,19,12
+15,Olivia Turner,75000,21,21,13
+18,Rachel Adams,72000,22,22,14
+23,Wendy Scott,70000,23,23,15
+16,Paul Walker,68000,24,24,16

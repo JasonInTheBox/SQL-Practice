@@ -1,0 +1,25 @@
+employee_name,manager_name,department_name,salary
+Alice Johnson,,Executive,250000
+Brian Smith,Alice Johnson,Engineering,180000
+Carla Gomez,Alice Johnson,Sales,180000
+David Lee,Alice Johnson,Finance,165000
+Grace Kim,Brian Smith,Engineering,150000
+Henry Patel,Brian Smith,Engineering,150000
+Emma Davis,Alice Johnson,Marketing,140000
+Irene Novak,Grace Kim,Engineering,130000
+Jack Brown,Grace Kim,Engineering,120000
+Karen White,Henry Patel,Engineering,120000
+Samuel Clark,David Lee,Finance,120000
+Frank Wilson,Alice Johnson,HR,110000
+Victor Hall,Frank Wilson,HR,110000
+Quinn Harris,Emma Davis,Marketing,98000
+Leo Martinez,Henry Patel,Engineering,95000
+Yusuf Ali,Grace Kim,Engineering,95000
+Maria Garcia,Carla Gomez,Sales,90000
+Nathan Young,Carla Gomez,Sales,90000
+Tina Lewis,Samuel Clark,Finance,85000
+Uma Rao,Samuel Clark,Finance,85000
+Olivia Turner,Maria Garcia,Sales,75000
+Rachel Adams,Quinn Harris,Marketing,72000
+Wendy Scott,Brian Smith,,70000
+Paul Walker,Maria Garcia,Sales,68000

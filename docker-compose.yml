@@ -1,0 +1,22 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: practice
+      POSTGRES_PASSWORD: practice
+      POSTGRES_DB: oa
+    ports:
+      # Host port 5433 so it never clashes with a locally installed PostgreSQL on 5432.
+      - "5433:5432"
+    volumes:
+      # Files here run automatically (alphabetically) the FIRST time the container is created:
+      # schema.sql, then seed.sql.
+      - ./db:/docker-entrypoint-initdb.d:ro
+      # The whole project is visible inside the container at /workspace,
+      # so psql can run exercises/*/answer.sql directly.
+      - .:/workspace:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U practice -d oa"]
+      interval: 2s
+      timeout: 3s
+      retries: 30

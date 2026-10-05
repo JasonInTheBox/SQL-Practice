@@ -1,0 +1,25 @@
+employee_name,manager_name
+Alice Johnson,
+Brian Smith,Alice Johnson
+Carla Gomez,Alice Johnson
+David Lee,Alice Johnson
+Emma Davis,Alice Johnson
+Frank Wilson,Alice Johnson
+Grace Kim,Brian Smith
+Henry Patel,Brian Smith
+Irene Novak,Grace Kim
+Jack Brown,Grace Kim
+Karen White,Henry Patel
+Leo Martinez,Henry Patel
+Maria Garcia,Carla Gomez
+Nathan Young,Carla Gomez
+Olivia Turner,Maria Garcia
+Paul Walker,Maria Garcia
+Quinn Harris,Emma Davis
+Rachel Adams,Quinn Harris
+Samuel Clark,David Lee
+Tina Lewis,Samuel Clark
+Uma Rao,Samuel Clark
+Victor Hall,Frank Wilson
+Wendy Scott,Brian Smith
+Yusuf Ali,Grace Kim

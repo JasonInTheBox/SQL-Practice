@@ -1,0 +1,16 @@
+department_name,employee_name,salary,position
+Engineering,Brian Smith,180000,1
+Engineering,Grace Kim,150000,2
+Engineering,Henry Patel,150000,3
+Executive,Alice Johnson,250000,1
+Finance,David Lee,165000,1
+Finance,Samuel Clark,120000,2
+Finance,Tina Lewis,85000,3
+HR,Frank Wilson,110000,1
+HR,Victor Hall,110000,2
+Marketing,Emma Davis,140000,1
+Marketing,Quinn Harris,98000,2
+Marketing,Rachel Adams,72000,3
+Sales,Carla Gomez,180000,1
+Sales,Maria Garcia,90000,2
+Sales,Nathan Young,90000,3

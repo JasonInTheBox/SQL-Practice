@@ -1,0 +1,4 @@
+-- Exercise 18: see prompt.md in this folder.
+-- Write ONE query below, then run:  .\scripts\test.ps1 18
+
+-- Write your query here
